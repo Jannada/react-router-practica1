@@ -24,3 +24,5 @@ export const Blog = () => {
     </>
   );
 };
+
+// Aquí estamos consumiendo con el Hook personalizado que creamos anteriormente
